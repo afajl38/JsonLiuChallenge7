@@ -1,0 +1,31 @@
+Please design a form with file upload feature by using fine-uploader (https://fineuploader.com/).
+There should be four buttons (Cancel/Clear/Submit/Approve) in the form.
+
+
+
+clicks "Cancel", back to Homepage;
+
+clicks "Clear", to clear the entire form;
+
+clicks "Submit", to insert the relevant field value into database with uploading the file attached in the file will be uploaded to folder "uploadFiles";
+
+clicks "Approve", to move the file already in folder "uploadFiles" into folder "DataDir".
+
+
+
+
+All File Needed:
+
+    [1] HTML File
+        (1.1) a HTML file with the four 4 buttons;
+        (1.2) a HTML file Homepage;
+
+
+
+    [2] JS File
+        (2.1) a JS file dealing with respond of user;
+
+https://www.youtube.com/watch?v=ymO_r1hcIXk
+
+Create a form;
+
